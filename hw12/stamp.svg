@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg 
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink" 
+   version="1.1"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100">
+  <!-- Your beautiful SVG code will go here -->
+  <rect x="0" y="0" width="100" height="100" stroke="red" stroke-width="0.5" fill="#F1EEF7"/>
+
+  <rect x="10" y="10" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="10" width="9.6650" height="9.6650" stroke="blue" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="10" width="7.3805" height="7.3805" stroke="red" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="10" width="5.5350" height="5.5350" stroke="green" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="10" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="10" width="3.6900" height="3.6900" stroke="red" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="10" width="2.7680" height="2.7680" stroke="blue" stroke-width="0.1" fill="none"/>
+
+  <rect x="30" y="10" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+  <text x="44" y="9" style="font-size:1pt;">初 42</text>
+  <rect x="30" y="10" width="7.3805" height="7.3805" stroke="red" stroke-width="0.1" fill="none"/>
+  <text x="37" y="9" style="font-size:1pt;">二 21</text>
+  <rect x="30" y="10" width="3.6900" height="3.6900" stroke="red" stroke-width="0.1" fill="none"/>
+  <text x="30" y="9" style="font-size:1pt;">五 10.5</text>
+
+  <rect x="50" y="10" width="9.6650" height="9.6650" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="59" y="9" style="font-size:1pt;">一 27.5</text>
+  <rect x="50" y="10" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50" y="9" style="font-size:1pt;">四 13.75</text>
+
+  <rect x="70" y="10" width="5.5350" height="5.5350" stroke="green" stroke-width="0.1" fill="none"/>
+  <text x="75" y="9" style="font-size:1pt;">三 15.75</text>
+  <rect x="70" y="10" width="2.7680" height="2.7680" stroke="green" stroke-width="0.1" fill="none"/>
+  <text x="70" y="9" style="font-size:1pt;">六 7.875</text>
+
+  <!-- Your beautiful SVG code will end here -->
+  
+  <rect x="50" y="45.167" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="49.067" style="font-size:3pt;">位</text>
+  <rect x="50" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="53.9" style="font-size:3pt;">鎮</text>
+  <rect x="50" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="58.733" style="font-size:3pt;">北</text>
+  <rect x="50" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="63.566" style="font-size:3pt;">方</text>
+  
+  <rect x="50" y="64.499" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="68.399" style="font-size:3pt;;" fill="red">凜</text>
+  <rect x="50" y="69.3320" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="73.232" style="font-size:3pt;" fill="red">凜</text>
+  <rect x="50" y="74.165" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="78.065" style="font-size:3pt;" fill="red">英</text>
+  
+  <rect x="50" y="78.998" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="82.901" style="font-size:3pt;;" fill="green">風</text>
+  <rect x="50" y="83.831" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="87.734" style="font-size:3pt;" fill="green">光</text>
+  <rect x="50" y="88.664" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="92.5673" style="font-size:3pt;" fill="green">日</text>
+  <rect x="50" y="93.497" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="97.4003" style="font-size:3pt;" fill="green">月</text>
+
+
+  <rect x="54.833" y="45.167" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="49.067" style="font-size:3pt;" fill="red">精</text>
+  <rect x="54.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="53.9" style="font-size:3pt;">分</text>
+  <rect x="54.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="58.733" style="font-size:3pt;">水</text>
+  <rect x="54.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="63.566" style="font-size:3pt;">性</text>
+  
+  <rect x="54.833" y="64.499" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="68.399" style="font-size:3pt;;" fill="blue">騰</text>
+  <rect x="54.833" y="69.3320" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="73.232" style="font-size:3pt;" fill="blue">騰</text>
+  <rect x="54.833" y="74.165" width="10.5" height="10.5" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="83.732" style="font-size:10.5;" fill="blue">殺</text>
+  
+  <rect x="54.833" y="84.665" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="88.565" style="font-size:3pt;;" fill="blue">氣</text>
+  <rect x="54.833" y="89.498" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="93.398" style="font-size:3pt;" fill="orange">肅</text>
+  <rect x="59.666" y="84.665" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="60.066" y="88.565" style="font-size:3pt;" fill="orange">乾</text>
+  <rect x="59.666" y="89.498" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="60.066" y="93.398" style="font-size:3pt;" fill="orange">坤</text>
+
+ 
+
+  <text x="30" y="30" style="font-size:2.5pt;">初號 42pt</text>
+  <text x="30" y="35" style="font-size:2.5pt;">二號 21pt</text>
+  <text x="30" y="40" style="font-size:2.5pt;">五號 10.5pt</text>
+
+  <text x="50" y="30" style="font-size:2.5pt;">一號 27.5pt</text>
+  <text x="50" y="35" style="font-size:2.5pt;">四號 13.75pt</text>
+
+  <text x="70" y="30" style="font-size:2.5pt;">三號 15.75pt</text>
+  <text x="70" y="35" style="font-size:2.5pt;">六號 7.875pt</text>
+
+</svg>
+
+<!-- 14.761 9.662 7.381 5.535 4.833 3.69 2.768 -->
+								
